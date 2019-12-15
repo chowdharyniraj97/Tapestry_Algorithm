@@ -27,4 +27,4 @@
 
 The above screenshot demonstrates the working output of 100 and 1000 nodes handling 2 requests per node. 
 For 100 nodes the maximum hops is 2 to find an object
-Likewise for 1000 it is 3.
+Likewise for 1000 it is 4.
