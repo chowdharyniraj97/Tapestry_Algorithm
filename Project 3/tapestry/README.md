@@ -6,7 +6,7 @@
 
 ## Steps to execute
 1. Extract Tapestry_Algorithm to you local machine
-2. Go to Project 3 folder via command prompt
+2. Go to Project 3/tapestry folder via command prompt
 3.  Type **mix run proj3.exs arg1 arg2** 
   Here,
      **arg1** is the number of nodesinvolved
