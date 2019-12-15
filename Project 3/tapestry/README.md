@@ -18,7 +18,7 @@
 1. Here every node in the network has their own 16 bit long identifier
 2. Each node maintains a finger table which is the key value pair, just like hash map, that points to the neighbours it knows about.
 3. Neighbour is selected on basis of prefix matching, whichever has the longest prefix matching is chosen as the next node to hop to.
-4. The above proecess continues until desired object is found and the above process occurs in O(logn) time.
+4. The above proecess continues until desired object is found and it takes O(logn) time.
 
 
 ## Output:
